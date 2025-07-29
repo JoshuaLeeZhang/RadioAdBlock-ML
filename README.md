@@ -106,17 +106,3 @@ The model achieves classification accuracy for radio content detection. Detailed
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🔗 Contact
-
-**Joshua Lee Zhang**  
-📧 jlzhang@uwaterloo.ca  
-🐙 [GitHub Profile](https://github.com/JoshuaLeeZhang)
-
----
-
-⭐ If you find this project helpful, please consider giving it a star! 
